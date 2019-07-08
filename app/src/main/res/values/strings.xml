@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppTools</string>
+    <string name="accessibility_service_description">开启功能,方便跟踪栈顶Activity</string>
+</resources>
